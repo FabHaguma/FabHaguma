@@ -1,10 +1,10 @@
-### Hi, I'm Fabrice Haguma 👋
+### Hi, I'm Fabrice Haguma
 
 I'm a Software Developer based in Kigali, Rwanda, passionate about building seamless and efficient web applications that solve real-world problems. I specialize in bridging the gap between engaging user interfaces and robust back-end logic.
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 - **Languages:** Java, Python, JavaScript, Apex Code
 - **Frameworks & Libraries:** React, Node.js, Spring Boot
@@ -13,7 +13,7 @@ I'm a Software Developer based in Kigali, Rwanda, passionate about building seam
 
 ---
 
-### ✨ Featured Projects
+###  Featured Projects
 
 Here are some of the projects I'm most proud of:
 
@@ -23,7 +23,7 @@ Here are some of the projects I'm most proud of:
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 - **Portfolio:** [portfolio.haguma.com](https://portfolio.haguma.com/)
 - **LinkedIn:** [linkedin.com/in/fabrice-haguma](https://www.linkedin.com/in/fabrice-haguma/)
